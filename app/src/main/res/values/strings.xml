@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Simple_Calcuator</string>
+    <string name="calculator">Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="calc_one">1</string>
+    <string name="calc_two">2</string>
+    <string name="calc_three">3</string>
+    <string name="calc_four">4</string>
+    <string name="Calc_five">5</string>
+    <string name="Calc_six">6</string>
+    <string name="calc_seven">7</string>
+    <string name="calc_eight">8</string>
+    <string name="calc_nine">9</string>
+    <string name="calc_zero">0</string>
+    <string name="calc_dot">.</string>
+    <string name="calc_op_plus">+</string>
+    <string name="calc_op_sub">-</string>
+    <string name="calc_op_mul">*</string>
+    <string name="calc_op_div">/</string>
+    <string name="calc_op_eql">=</string>
+    <string name="calc_op_back">C</string>
+
+</resources>
